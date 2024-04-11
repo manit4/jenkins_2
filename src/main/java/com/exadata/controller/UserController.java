@@ -17,7 +17,7 @@ public class UserController {
 	public String getessage() {//This is rest end-point...
 		System.out.println("inside getMessage mapping method...");
 		
-		return "hello class jenkins update....";
+		return "hello class jenkins update1....";
 	}
 	
 	@RequestMapping("/getUser")
